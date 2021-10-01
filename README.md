@@ -1,14 +1,8 @@
 # Wio_Terminal_IoTHub_Communication
 
-# Connect your IoT device to the cloud - Wio Terminal
-
 In this part of the lesson, you will connect your Wio Terminal to your IoT Hub, to send telemetry.
 
-## Connect your device to IoT Hub
-
-The next step is to connect your device to IoT Hub.
-
-### Task - connect to Wifi
+### Task - Connect to Wifi
 
 1. Add the following library dependencies:
     ```
